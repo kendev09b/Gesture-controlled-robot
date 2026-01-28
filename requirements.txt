@@ -1,0 +1,3 @@
+Arduino IDE 1.8.19 or higher
+MPU6050 library by Electronic Cats
+Wire library (included)
