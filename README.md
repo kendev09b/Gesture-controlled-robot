@@ -1,5 +1,3 @@
-# 📄 **README.md** (EXACT MATCH to your structure)
-
 # 🤖 **Gesture-Controlled Robot - Code & Structure ONLY**
 
 ## 📁 **PROJECT STRUCTURE**
